@@ -1,0 +1,111 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": "mccabe-shapley-schlorf",
+      "title": "Names and birthdates — McCabe / Shapley / Schlorf",
+      "source": "/home/we6jbo/.treeresearchoct2326/external/sources/mccabe_shapley_schlorf_leads.txt",
+      "read_confirmed": false,
+      "retained_confirmed": false,
+      "source_type": "user-provided research note",
+      "source_url": "https://www.reddit.com/r/Genealogy/comments/1jx93nz/researching_the_mccabe_shapley_schlorf_lines_dna/",
+      "notes": "Treat unverified birthdates and relationships as leads. Do not infer Moltbook publication."
+    },
+    {
+      "id": "luedtke-rice-website",
+      "title": "2. Luedtke — names, people, TG/AKA and research links",
+      "source": "/home/we6jbo/.treeresearchoct2326/external/sources/Ancestra_External_Luedtke.json",
+      "read_confirmed": false,
+      "retained_confirmed": false,
+      "source_type": "website research inventory",
+      "source_url": "https://luedtkerice.j03.page/",
+      "attachments": [
+        "/home/we6jbo/.treeresearchoct2326/external/sources/Ancestra_External_Luedtke.json",
+        "/home/we6jbo/.treeresearchoct2326/external/sources/Ancestra_External_Luedtke.txt",
+        "/home/we6jbo/.treeresearchoct2326/external/sources/Ancestra_External_Luedtke_links.csv",
+        "/home/we6jbo/.treeresearchoct2326/external/sources/Ancestra_External_Luedtke_people.csv"
+      ],
+      "notes": "28 potential names; 14 TG/TG-related mentions; no confirmed AKA codes. Partial crawl and unverified leads. Read other bundled Luedtke research files, not only JSON. Do not mark green until Vibe verifiably reads and incorporates evidence. Do not infer Moltbook posting."
+    },
+    {
+      "id": "user-family-lesters-side",
+      "title": "3. Lester’s side — unconfirmed family group",
+      "source": "/home/we6jbo/.treeresearchoct2326/external/sources/ancestra_group_lesters-side.md",
+      "read_confirmed": false,
+      "retained_confirmed": false,
+      "source_type": "user-supplied unverified genealogy",
+      "verification": "unconfirmed",
+      "notes": "Includes family-group structure, IDs, name variants, and verification tasks. Do not promote to confirmed without evidence."
+    },
+    {
+      "id": "user-family-normas-side",
+      "title": "4. Norma’s side — unconfirmed family group",
+      "source": "/home/we6jbo/.treeresearchoct2326/external/sources/ancestra_group_normas-side.md",
+      "read_confirmed": false,
+      "retained_confirmed": false,
+      "source_type": "user-supplied unverified genealogy",
+      "verification": "unconfirmed",
+      "notes": "Includes family-group structure, IDs, name variants, and verification tasks. Do not promote to confirmed without evidence."
+    },
+    {
+      "id": "user-family-burke-cochran-maynard",
+      "title": "5. Burke Cochran Maynard — unconfirmed family group",
+      "source": "/home/we6jbo/.treeresearchoct2326/external/sources/ancestra_group_burke-cochran-maynard.md",
+      "read_confirmed": false,
+      "retained_confirmed": false,
+      "source_type": "user-supplied unverified genealogy",
+      "verification": "unconfirmed",
+      "notes": "Includes family-group structure, IDs, name variants, and verification tasks. Do not promote to confirmed without evidence."
+    },
+    {
+      "id": "user-family-amelia-hedtke",
+      "title": "6. Amelia Hedtke — unconfirmed family group",
+      "source": "/home/we6jbo/.treeresearchoct2326/external/sources/ancestra_group_amelia-hedtke.md",
+      "read_confirmed": false,
+      "retained_confirmed": false,
+      "source_type": "user-supplied unverified genealogy",
+      "verification": "unconfirmed",
+      "notes": "Includes family-group structure, IDs, name variants, and verification tasks. Do not promote to confirmed without evidence."
+    },
+    {
+      "id": "user-family-percy-w-shapley",
+      "title": "7. Percy W. Shapley — unconfirmed family group",
+      "source": "/home/we6jbo/.treeresearchoct2326/external/sources/ancestra_group_percy-w-shapley.md",
+      "read_confirmed": false,
+      "retained_confirmed": false,
+      "source_type": "user-supplied unverified genealogy",
+      "verification": "unconfirmed",
+      "notes": "Includes family-group structure, IDs, name variants, and verification tasks. Do not promote to confirmed without evidence."
+    },
+    {
+      "id": "user-family-wilhelmina-a-schlorff",
+      "title": "8. Wilhelmina A. Schlorff — unconfirmed family group",
+      "source": "/home/we6jbo/.treeresearchoct2326/external/sources/ancestra_group_wilhelmina-a-schlorff.md",
+      "read_confirmed": false,
+      "retained_confirmed": false,
+      "source_type": "user-supplied unverified genealogy",
+      "verification": "unconfirmed",
+      "notes": "Includes family-group structure, IDs, name variants, and verification tasks. Do not promote to confirmed without evidence."
+    },
+    {
+      "id": "user-family-mary-johannsen",
+      "title": "9. Mary Johannsen — unconfirmed family group",
+      "source": "/home/we6jbo/.treeresearchoct2326/external/sources/ancestra_group_mary-johannsen.md",
+      "read_confirmed": false,
+      "retained_confirmed": false,
+      "source_type": "user-supplied unverified genealogy",
+      "verification": "unconfirmed",
+      "notes": "Includes family-group structure, IDs, name variants, and verification tasks. Do not promote to confirmed without evidence."
+    },
+    {
+      "id": "user-family-more-amelia-hedtke",
+      "title": "10. More Amelia Hedtke — unconfirmed family group",
+      "source": "/home/we6jbo/.treeresearchoct2326/external/sources/ancestra_group_more-amelia-hedtke.md",
+      "read_confirmed": false,
+      "retained_confirmed": false,
+      "source_type": "user-supplied unverified genealogy",
+      "verification": "unconfirmed",
+      "notes": "Includes family-group structure, IDs, name variants, and verification tasks. Do not promote to confirmed without evidence."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+So it would do something like search google with https://www.google.com/search?q=edward+mccabe+sarah+ann+mcavoy&sca_esv=732c30e72755a450&biw=1536&bih=738&sxsrf=APpeQnumzrnWDeBhFcinjgqWW6tseO2ZjQ%3A1792827425444&ei=IWDcatPSGs3_yckP1bOu-Qw&uact=5&oq=edward+mccabe+sarah+ann+mcavoy&gs_lp=Egxnd3Mtd2l6LXNlcnAiHmVkd2FyZCBtY2NhYmUgc2FyYWggYW5uIG1jYXZveTIFECEYoAEyBRAhGKABMgUQIRigATIFECEYoAFI0jRQgwRY1zJwAXgAkAEAmAGVAaABwA6qAQQ3LjEwuAEDyAEA-AEBmAINoAK3DMICBBAjGCfCAhAQLhiABBgUGIcCGMcBGK8BwgIFEAAYgATCAgYQABgWGB7CAgUQIRirAsICBRAhGJ8FmAMAiAYBkgcEMS4xMqAHozmyBwQxLjEyuAe3DMIHBzAuMS41LjfIB2mACAE&sclient=gws-wiz-serp and yeah it would find out that on https://www.reddit.com/r/Genealogy/comments/1jx93nz/researching_the_mccabe_shapley_schlorf_lines_dna/ theres a post with this info including edwards info Researching the McCabe / Shapley / Schlorf Lines — DNA Matches and Migration
+Question
+Hi everyone,
+I began exploring my family history because things didn’t work out between my parents, which meant I grew up not knowing much about my father’s side of the family. While my mother’s lineage was well-documented, my dad’s side remained a mystery. That changed when I connected with a relative named Patty, who generously shared some family insights. Since then, DNA matches have helped me piece together more of our story.
+
+I’m currently researching the following family lines:
+
+Edward McCabe (b. March 1862, Glasgow, Scotland – d. before 1934, Pennsylvania) and Sarah Ann McAvoy (b. April 1862, Ireland), are believed to be married. Their son, John McCabe, was born February 6, 1896, in Pittsburgh, PA, and died in April 1969 in Butler County, PA.
+
+Alice Seabert (b. 1907, Butler, PA – d. December 24, 1951, New Castle, PA), married to John. Also researching Archie T. Smith (b. 1895, Greeley, CO – d. August 5, 1973, San Diego, CA) and Polly Myrtle Bowman (b. May 18, 1887, Morgan County, IN – d. December 25, 1947, Paragon, IN), who were likely married.
+
+Burke Cochran Maynard (b. June 11, 1904, North Dakota – d. December 5, 1986, Fresno, CA), married to Amelia B. Hedtke (b. December 28, 1904 – d. May 15, 1979, Morro Bay, CA).
+
+William (John Ludwig) Schlorf (b. July 21, 1867, Pomerania, Prussia – d. 1937, Wisconsin) and Mary Johannsen (b. February 1866, Schleswig-Holstein, Prussia – d. 1951, Shawano County, WI) were married. Their daughter, Minnie Schlorff (b. March 1, 1905, Chicago, IL – d. April 12, 1946, Minneapolis, MN), married into the Shapley family.
+
+William Shapley (b. October 10, 1871, Jackson County, MN – d. between 1925–1928, Floyd, IA), married to Olive Gertrude Stafford (b. April 30, 1876, Calamus, WI – d. May 22, 1946, Charles City, IA). Their son, Percy W. Shapley, was born May 6, 1901, in Floyd Township, IA, and died September 11, 1946, in Pasco, WA.
+
+I hope to confirm the Shapley–Stafford connection and learn more about the McCabe and Schlorf families. I'd love to connect and exchange information if any of these names or places sound familiar. Thank you for reading.
+
+(Some family details were added with help from ChatGPT while I was crafting this post.)
+
+and then through that it will be able to go to the moltbook.md file and ask on moltbook about Edward McCabe who appears to be born in scotland. So it might ask there and see what AI says, t
+
+then i forget what tree.md is supposted to have but finally it will read up on some stuff and write this info along with all the other names already on that docx to the docx so I can update both the .db and json file myself using my tools.

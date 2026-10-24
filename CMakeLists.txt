@@ -1,24 +1,11 @@
 cmake_minimum_required(VERSION 3.21)
-
-project(Ancestra VERSION 0.1 LANGUAGES CXX)
-
+project(Ancestra VERSION 0.5 LANGUAGES CXX)
 set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 set(CMAKE_AUTOMOC ON)
 set(CMAKE_AUTOUIC ON)
-set(CMAKE_AUTORCC ON)
-
-find_package(Qt6 REQUIRED COMPONENTS Widgets)
-
-qt_add_executable(Ancestra
-    main.cpp
-    mainwindow.cpp
-    mainwindow.h
-    mainwindow.ui
-)
-
-target_link_libraries(Ancestra PRIVATE Qt6::Widgets)
-
-install(TARGETS Ancestra
-    RUNTIME DESTINATION bin
-)
+find_package(Qt6 REQUIRED COMPONENTS Widgets Sql)
+find_package(OpenSSL REQUIRED)
+qt_add_executable(Ancestra main.cpp mainwindow.cpp mainwindow.h mainwindow.ui challenge.cpp challenge.h)
+target_link_libraries(Ancestra PRIVATE Qt6::Widgets Qt6::Sql OpenSSL::Crypto)
+install(TARGETS Ancestra RUNTIME DESTINATION bin)

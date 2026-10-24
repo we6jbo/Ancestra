@@ -1,7 +1,73 @@
-build/
-build-*/
-cmake-build-*/
+# Ancestra - Qt/CMake local artifacts
+/build/
+/build-*/
+/cmake-build-*/
 CMakeFiles/
 CMakeCache.txt
+CMakeUserPresets.json
 *.o
+*.obj
+*.a
+*.so
+*.exe
+*.app/
 *.user
+*.user.*
+.qtcreator/
+.qtc_clangd/
+.cache/
+__pycache__/
+*.pyc
+
+# Local/private runtime and research material
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*.p12
+*.pfx
+*.kdbx
+*.credentials
+*secret*
+*credential*
+*token*.json
+id_rsa*
+id_ed25519*
+.ssh/
+.ads/
+.fwd/
+.treeresearchoct2326/
+.family_story/
+*.db
+*.db-shm
+*.db-wal
+*.sqlite
+*.sqlite3
+*.bak
+*.backup
+*.orig
+.gitignore.backup-*
+*.swp
+*~
+
+# Personal/generated documents and logs
+*.docx
+*.log
+logs/
+backups/
+private/
+secrets/
+local/
+*.local
+*.private
+
+# Local source snapshots and temporary exports
+kinmap_state*.json
+kinmap_family_tree*.json
+pedigree_status.json
+challenge_time.txt
+
+# A provided research note includes a protected birth year.
+# Review/sanitize a separately prepared public copy before committing it.
+/external/sources/ancestra_group_lesters-side.md

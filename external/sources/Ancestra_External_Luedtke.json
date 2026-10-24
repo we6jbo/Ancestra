@@ -1,0 +1,313 @@
+{
+  "external_name": "Luedtke",
+  "source": "website_crawl_review",
+  "base_url": "https://luedtkerice.j03.page/",
+  "scope": "same subdomain only for crawling; external links inventory only",
+  "review_date": "2026-10-24",
+  "status": {
+    "vibe_read": false,
+    "vibe_persisted_and_used": false,
+    "moltbook_posted": false
+  },
+  "limitations": [
+    "Partial crawl from accessible navigation and index results; not a complete proof of all published pages or dynamically loaded content.",
+    "No independent verification of claims or external resources.",
+    "No AKA identifiers reliably extracted in reviewed pages.",
+    "TG903148-A/B/C are page labels, not necessarily distinct stable TG identifiers."
+  ],
+  "tg_mentions": [
+    "TG903148",
+    "TG903148-A",
+    "TG903148-B",
+    "TG903148-C",
+    "TG923450",
+    "TG673245",
+    "TG182976",
+    "TG491628",
+    "TG463829",
+    "TG917384",
+    "TG295740",
+    "TG804631",
+    "TG935097",
+    "TG796320"
+  ],
+  "aka_mentions": [],
+  "people": [
+    {
+      "name": "Erdmann Martin Luedtke",
+      "note": "Relationship with Anna Louise Riewe described as proven within site",
+      "evidence_status": "research conclusion",
+      "related_tg_mention": null
+    },
+    {
+      "name": "Anna Louise Riewe",
+      "note": "Partner of Erdmann Martin Luedtke, described as proven within site",
+      "evidence_status": "research conclusion",
+      "related_tg_mention": null
+    },
+    {
+      "name": "Erdmann Luedtke",
+      "note": "Earlier generation being investigated",
+      "evidence_status": "unverified lineage",
+      "related_tg_mention": null
+    },
+    {
+      "name": "Christina Hartfiel",
+      "note": "Possible earlier-generation relationship",
+      "evidence_status": "unverified lineage",
+      "related_tg_mention": null
+    },
+    {
+      "name": "Johann Christian Luedtke",
+      "note": "Older line, also in source notes",
+      "evidence_status": "research lead",
+      "related_tg_mention": null
+    },
+    {
+      "name": "Eva Rosina Heymann",
+      "note": "Older line under review",
+      "evidence_status": "research lead",
+      "related_tg_mention": null
+    },
+    {
+      "name": "Amelia Caroline Luedtke",
+      "note": "Reported wife of August Hedtke, mother of Robert Richard Hedtke",
+      "evidence_status": "site-supported",
+      "related_tg_mention": null
+    },
+    {
+      "name": "August Friedrich Hedtke",
+      "note": "Reported husband of Amelia Caroline Luedtke",
+      "evidence_status": "site-supported",
+      "related_tg_mention": "TG923450"
+    },
+    {
+      "name": "Robert Richard Hedtke",
+      "note": "Reported son of August and Amelia",
+      "evidence_status": "site-supported",
+      "related_tg_mention": "TG903148"
+    },
+    {
+      "name": "Martin Luedtke",
+      "note": "Connection as parent of Amelia NOT established",
+      "evidence_status": "unverified lineage",
+      "related_tg_mention": null
+    },
+    {
+      "name": "George Carl Hedtke",
+      "note": "FamilySearch profile linked from research page",
+      "evidence_status": "source lead",
+      "related_tg_mention": null
+    },
+    {
+      "name": "Emilie Hedtke",
+      "note": "Name variant in memorial/census research",
+      "evidence_status": "possibly same person",
+      "related_tg_mention": null
+    },
+    {
+      "name": "August Michael Friedrich Luedtke",
+      "note": "Line in site notes, relationship to focused branch not established",
+      "evidence_status": "research lead",
+      "related_tg_mention": null
+    },
+    {
+      "name": "Maria Hackbarth",
+      "note": "Reported spouse of August Michael Friedrich Luedtke",
+      "evidence_status": "research lead",
+      "related_tg_mention": null
+    },
+    {
+      "name": "Carl Friedrich Wilhelm Luedtke",
+      "note": "Reported child of August Michael Friedrich Luedtke",
+      "evidence_status": "research lead",
+      "related_tg_mention": null
+    },
+    {
+      "name": "Wilhelmina Caroline Lambrecht Knuth",
+      "note": "Separate research lead",
+      "evidence_status": "research lead",
+      "related_tg_mention": null
+    },
+    {
+      "name": "Frederick Wilhelm William Lambrecht",
+      "note": "Reported father of Wilhelmina",
+      "evidence_status": "research lead",
+      "related_tg_mention": null
+    },
+    {
+      "name": "Adolph George Gustav Hedtke",
+      "note": "Historical Hedtke line in research notes",
+      "evidence_status": "research lead",
+      "related_tg_mention": null
+    },
+    {
+      "name": "Johann E. Hedtke",
+      "note": "Reported parent of Adolph",
+      "evidence_status": "research lead",
+      "related_tg_mention": null
+    },
+    {
+      "name": "James Elliott",
+      "note": "Confirmed-branches research page",
+      "evidence_status": "site research",
+      "related_tg_mention": "TG673245"
+    },
+    {
+      "name": "Margaret Elliott",
+      "note": "Confirmed-branches research page",
+      "evidence_status": "site research",
+      "related_tg_mention": "TG182976"
+    },
+    {
+      "name": "William Shapley",
+      "note": "Platt/Rice/Shapley branch",
+      "evidence_status": "site research",
+      "related_tg_mention": "TG491628"
+    },
+    {
+      "name": "Mary Rice",
+      "note": "Shapley/Rice branch",
+      "evidence_status": "site research",
+      "related_tg_mention": null
+    },
+    {
+      "name": "Ira Foster Rice",
+      "note": "Listed in Platt/Rice branch",
+      "evidence_status": "site research",
+      "related_tg_mention": null
+    },
+    {
+      "name": "Ruanna Hamilton",
+      "note": "Smith/Hamilton branch",
+      "evidence_status": "site research",
+      "related_tg_mention": "TG463829"
+    },
+    {
+      "name": "John Isaac Smith",
+      "note": "Smith research branch",
+      "evidence_status": "site research",
+      "related_tg_mention": "TG917384"
+    },
+    {
+      "name": "Albert Franklin Smith",
+      "note": "Smith research branch",
+      "evidence_status": "site research",
+      "related_tg_mention": null
+    },
+    {
+      "name": "Amelia Caroline Luedtke / Hedtke",
+      "note": "Page subject, possible variant of Amelia record",
+      "evidence_status": "name variant review",
+      "related_tg_mention": "TG903148"
+    }
+  ],
+  "internal_pages": [
+    {
+      "label": "Home",
+      "url": "https://luedtkerice.j03.page/"
+    },
+    {
+      "label": "Page index",
+      "url": "https://luedtkerice.j03.page/pages-index.html"
+    },
+    {
+      "label": "Confirmed branches",
+      "url": "https://luedtkerice.j03.page/confirmed-branches.html"
+    },
+    {
+      "label": "Surname index",
+      "url": "https://luedtkerice.j03.page/surname-index.html"
+    },
+    {
+      "label": "Evidence index",
+      "url": "https://luedtkerice.j03.page/evidence-status-index.html"
+    },
+    {
+      "label": "Hedtke–Luedtke DNA",
+      "url": "https://luedtkerice.j03.page/Hedtke-to-Luedtke-DNA-Ancestor-Connection.html"
+    },
+    {
+      "label": "Following Amelia",
+      "url": "https://luedtkerice.j03.page/following-amelia-caroline-luedtke-and-the-hedtke-line.html"
+    },
+    {
+      "label": "Amelia evidence",
+      "url": "https://luedtkerice.j03.page/amelia-caroline-luedtke-hedtke-evidence.html"
+    },
+    {
+      "label": "Erdmann research",
+      "url": "https://luedtkerice.j03.page/tg903148-a-following-the-luedtke-line-through-erdmann.html"
+    },
+    {
+      "label": "Amelia record viewer",
+      "url": "https://luedtkerice.j03.page/amelia-caroline-hedtke.html"
+    },
+    {
+      "label": "Luedtke information",
+      "url": "https://luedtkerice.j03.page/luedtke-information.html"
+    },
+    {
+      "label": "Canada family records",
+      "url": "https://luedtkerice.j03.page/canada.html"
+    }
+  ],
+  "outbound_links": [
+    {
+      "label": "FamilySearch Erdmann profile",
+      "url": "https://www.familysearch.org/ark:/61903/2:1:MWHG-G3J?lang=en"
+    },
+    {
+      "label": "FamilySearch Johann Christian",
+      "url": "https://ancestors.familysearch.org/en/K23Z-FRJ/johann-christian-luedtke-1763-1814"
+    },
+    {
+      "label": "FamilySearch Robert Hedtke",
+      "url": "https://ancestors.familysearch.org/en/9372-FMP/robert-richard-hedtke-1876-1954"
+    },
+    {
+      "label": "FamilySearch George Hedtke",
+      "url": "https://ancestors.familysearch.org/en/9KZL-QXY/george-carl-hedtke-1873-1925"
+    },
+    {
+      "label": "Geneanet Erdmann",
+      "url": "https://gw.geneanet.org/kristinaernst?n=luedtke&oc=&p=erdmann"
+    },
+    {
+      "label": "Find a Grave Emilie Hedtke",
+      "url": "https://www.findagrave.com/memorial/75234155/emilie-hedtke"
+    },
+    {
+      "label": "Find a Grave Robert Hedtke",
+      "url": "https://www.findagrave.com/memorial/260875592/robert-r-hedtke"
+    },
+    {
+      "label": "Carver County newspaper search",
+      "url": "https://www.carvercountyhistoricalsociety.org/newspaper/search.php?SearchText=hedtke&Start=181"
+    },
+    {
+      "label": "FamilySearch 1880 census",
+      "url": "https://www.familysearch.org/en/search/collection/1417683"
+    },
+    {
+      "label": "Internet Archive census reel",
+      "url": "https://archive.org/details/10thcensus0628unit"
+    },
+    {
+      "label": "National Archives census resources",
+      "url": "https://www.archives.gov/research/census/online-resources"
+    },
+    {
+      "label": "National Archives microfilm",
+      "url": "https://www.archives.gov/research/census/using-microfilm-catalogs"
+    },
+    {
+      "label": "Outside blog Luedtke post",
+      "url": "https://j03.page/2026/04/18/tg903148-following-amelia-caroline-luedtke-and-the-hedtke-line/"
+    },
+    {
+      "label": "Geneanet Amelia",
+      "url": "https://gw.geneanet.org/abcjeremiahonealts?n=luedtke&oc=&p=amelia+caroline"
+    }
+  ]
+}

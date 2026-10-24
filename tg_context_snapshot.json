@@ -1,0 +1,19 @@
+{
+  "project_id": "ancestra",
+  "codes": [
+    "TG918273",
+    "TG654147"
+  ],
+  "references": [
+    {
+      "code": "TG918273",
+      "name": "Sarah McAvoy"
+    },
+    {
+      "code": "TG654147",
+      "name": "James McCabe"
+    }
+  ],
+  "source": "user-provided provenance contract",
+  "privacy": "No uploaded private family dataset bundled."
+}
