@@ -9,3 +9,11 @@ find_package(OpenSSL REQUIRED)
 qt_add_executable(Ancestra main.cpp mainwindow.cpp mainwindow.h mainwindow.ui challenge.cpp challenge.h)
 target_link_libraries(Ancestra PRIVATE Qt6::Widgets Qt6::Sql OpenSSL::Crypto)
 install(TARGETS Ancestra RUNTIME DESTINATION bin)
+
+# Flathub desktop integration
+install(FILES org.oneal.Ancestra.desktop
+        DESTINATION share/applications)
+install(FILES org.oneal.Ancestra.metainfo.xml
+        DESTINATION share/metainfo)
+install(FILES org.oneal.Ancestra.svg
+        DESTINATION share/icons/hicolor/scalable/apps)

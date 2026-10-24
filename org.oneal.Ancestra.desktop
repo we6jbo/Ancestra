@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Ancestra
+Comment=Practice and learn fractions
+Exec=Ancestra
+Icon=org.oneal.Ancestra
+Terminal=false
+Categories=Education;
