@@ -1,0 +1,16 @@
+app-id: org.oneal.Ancestra
+runtime: org.kde.Platform
+runtime-version: '6.11'
+sdk: org.kde.Sdk
+command: Ancestra
+finish-args:
+  - --socket=wayland
+  - --socket=fallback-x11
+  - --share=ipc
+  - --device=dri
+modules:
+  - name: Ancestra
+    buildsystem: cmake-ninja
+    sources:
+      - type: dir
+        path: .
